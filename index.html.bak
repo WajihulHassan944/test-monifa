@@ -98,7 +98,7 @@
 <script>
   function downloadCV() {
     var link = document.createElement('a');
-    link.href = 'O. Monifa Sawyerr (CV) (Final).pdf';
+    link.href = 'Sawyerr_O.Monifa_CV (Final).pdf';
     link.download = 'O. Monifa Sawyerr CV.pdf';
     link.style.display = 'none';
     document.body.appendChild(link);
